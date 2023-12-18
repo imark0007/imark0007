@@ -11,7 +11,7 @@ Why Software Quality Assurance? Because, to me, it's the art of ensuring that ev
 > [!IMPORTANT]
 > Join me as I embark on this exhilarating adventure into the realm of Software Quality Assurance. Together, let's unravel the mysteries, perfect the narratives, and ensure that the software we touch becomes a masterpiece of precision and quality.
 
-Here's to the exciting journey ahead!
+### Here's to the exciting journey ahead!
 
 ## Skills
 
@@ -29,6 +29,6 @@ Here's to the exciting journey ahead!
 
 • Java Basics
 
-Email: [arkatalukder99@gmail.com](mailto:arkatalukder99@gmail.com)
+### Email: [arkatalukder99@gmail.com](mailto:arkatalukder99@gmail.com)
 
-Also You can visit my website : [BDLearner.Com](www.bdlearner.com)
+### Also You can visit my website : [BDLearner.Com](www.bdlearner.com)
