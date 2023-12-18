@@ -31,4 +31,4 @@ Why Software Quality Assurance? Because, to me, it's the art of ensuring that ev
 
 ### Email: [arkatalukder99@gmail.com](mailto:arkatalukder99@gmail.com)
 
-### Also You can visit my website : [BDLearner.Com](www.bdlearner.com)
+### Also You can visit my website : https://www.bdlearner.com/
