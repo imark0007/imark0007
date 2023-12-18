@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋  This is Arka Talukder 
+Greetings! I'm on a thrilling journey to immerse myself in the dynamic world of software quality assurance, and I'm eager to share a bit about my passion and journey.
 <!--
 **imark0007/imark0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
