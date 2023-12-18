@@ -34,3 +34,7 @@ Why Software Quality Assurance? Because, to me, it's the art of ensuring that ev
 ### Also You can visit my website : https://www.bdlearner.com/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://stardev.io/developers/imark0007"><img alt="Check out imark0007's profile on stardev.io" src="https://stardev.io/developers/imark0007/badge/languages/global.svg" /></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
