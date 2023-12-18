@@ -37,4 +37,4 @@ Why Software Quality Assurance? Because, to me, it's the art of ensuring that ev
 
 <a href="https://stardev.io/developers/imark0007"><img alt="Check out imark0007's profile on stardev.io" src="https://stardev.io/developers/imark0007/badge/languages/global.svg" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=imark0007&show_icons=true&theme=merko)
