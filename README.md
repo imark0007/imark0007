@@ -8,26 +8,27 @@ As I step into the realm of Software Quality Assurance as a trainee, I bring wit
 
 Why Software Quality Assurance? Because, to me, it's the art of ensuring that every line of code tells a story of reliability and excellence. It's about crafting digital experiences that stand the test of time and resonate with users on a profound level.
 
-> [!IMPORTANT]
-> Join me as I embark on this exhilarating adventure into the realm of Software Quality Assurance. Together, let's unravel the mysteries, perfect the narratives, and ensure that the software we touch becomes a masterpiece of precision and quality.
+Join me as I embark on this exhilarating adventure into the realm of Software Quality Assurance. Together, let's unravel the mysteries, perfect the narratives, and ensure that the software we touch becomes a masterpiece of precision and quality.
 
 ### Here's to the exciting journey ahead!
 
-## Skills
-
-    • Test Case and Report writing
-
-    • Agile & Jira 
-
-    • Manual Testing 
-
-    • API Testing
-
-    • Mind Map with XMind 
-
-    • Load Testing with JMeter 
-
-    • Java Basics
+> [!IMPORTANT]
+> ## Skills
+> 
+>
+>     • Test Case and Report writing
+>
+>     • Agile & Jira 
+>
+>     • Manual Testing 
+>
+>     • API Testing
+>
+>     • Mind Map with XMind 
+>
+>     • Load Testing with JMeter 
+>
+>     • Java Basics
 
 ### Email: [arkatalukder99@gmail.com](mailto:arkatalukder99@gmail.com)
 
