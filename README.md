@@ -15,19 +15,19 @@ Why Software Quality Assurance? Because, to me, it's the art of ensuring that ev
 
 ## Skills
 
-  _ • Test Case and Report writing
+    • Test Case and Report writing
 
-  _ • Agile & Jira 
+    • Agile & Jira 
 
-  _ • Manual Testing 
+    • Manual Testing 
 
-  _ • API Testing
+    • API Testing
 
-  _ • Mind Map with XMind 
+    • Mind Map with XMind 
 
-  _ • Load Testing with JMeter 
+    • Load Testing with JMeter 
 
-  _ • Java Basics
+    • Java Basics
 
 ### Email: [arkatalukder99@gmail.com](mailto:arkatalukder99@gmail.com)
 
