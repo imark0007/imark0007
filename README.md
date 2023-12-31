@@ -1,5 +1,5 @@
 # Hi there 👋  This is Arka Talukder 
-## Greetings! I'm on a thrilling journey to immerse myself in the dynamic world of software quality assurance, and I'm eager to share a bit about my passion and journey.
+## Greetings! I'm on a thrilling journey to immerse myself in the dynamic world of software quality assurance, and I'm eager to share a bit about my passion and journey.  🚀
 
 
 Picture me as a tech enthusiast who, despite not having a traditional computer science background, discovered a deep fascination for the intricate dance between code and perfection. My academic voyage has been in Physics, a realm where I've cultivated a unique blend of analytical prowess and creative problem-solving.
@@ -39,3 +39,9 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 <a href="https://stardev.io/developers/imark0007"><img alt="Check out imark0007's profile on stardev.io" src="https://stardev.io/developers/imark0007/badge/languages/global.svg" /></a>
 
 ![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=imark0007&show_icons=true&theme=merko)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
