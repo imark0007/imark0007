@@ -39,9 +39,3 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 <a href="https://stardev.io/developers/imark0007"><img alt="Check out imark0007's profile on stardev.io" src="https://stardev.io/developers/imark0007/badge/languages/global.svg" /></a>
 
 ![Arka's GitHub stats](https://github-readme-stats.vercel.app/api?username=imark0007&show_icons=true&theme=merko)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
