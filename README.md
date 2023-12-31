@@ -55,12 +55,10 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 </div>
 
 ### Also You can visit my website : https://www.bdlearner.com/
+    
+<br>       
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="arka-talukder" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/arka-talukder?trk=profile-badge">Arka Talukder</a></div>
-              
-              
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) </br>
 
 <a href="https://stardev.io/developers/imark0007"><img alt="Check out imark0007's profile on stardev.io" src="https://stardev.io/developers/imark0007/badge/languages/global.svg" /></a>
 
