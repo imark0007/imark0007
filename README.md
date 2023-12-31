@@ -1,4 +1,16 @@
-# Hi there 👋  This is Arka Talukder 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=imark0007.imark0007" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arka+Talukder!;" />
+</h1>
+
+<h3 align="center">A passionate Software QA Learner from Bangladesh </h3>
+
+<br/>
+
+
+
+
 ## Greetings! I'm on a thrilling journey to immerse myself in the dynamic world of software quality assurance, and I'm eager to share a bit about my passion and journey.  🚀
 
 
