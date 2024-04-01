@@ -4,11 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arka+Talukder!;" />
 </h1>
 
-<h3 align="center">A passionate Software QA Learner from Bangladesh </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arka-talukder/">LinkedIn</a> •
+  <a href="https://github.com/imark0007">GitHub</a>
+</p>
 
-<br/>
-
-
+<h3> <p align="center">I'm a passionate software quality assurance professional committed to delivering high-quality software solutions.</p> </h3>
 
 
 ## Greetings! I'm on a thrilling journey to immerse myself in the dynamic world of software quality assurance, and I'm eager to share a bit about my passion and journey.  🚀
@@ -23,6 +24,14 @@ Why Software Quality Assurance? Because, to me, it's the art of ensuring that ev
 Join me as I embark on this exhilarating adventure into the realm of Software Quality Assurance. Together, let's unravel the mysteries, perfect the narratives, and ensure that the software we touch becomes a masterpiece of precision and quality.
 
 ### Here's to the exciting journey ahead!
+
+### About Me
+
+- 🔭 I’m currently working on API testing using Postman.
+- 🌱 I’m currently learning automation testing frameworks.
+- 💬 Ask me about software testing, Postman, and API testing.
+- 📫 How to reach me: arkatalukder99@gmail.com
+- ⚡ Fun fact: I love photography 📸 and exploring new technologies.
 
 > [!IMPORTANT]
 > ## Skills
@@ -42,6 +51,17 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 >
 >     • Java Basics
 
+
+### Projects
+
+- [API Testing Using Postman](https://github.com/imark0007/ApiTestingUsingPostman): Examples and resources for API testing using Postman.
+- [BDLearner.com](https://github.com/imark0007/BDLearner): Learning blog site covering a wide range of topics.
+
+### Get In Touch
+
+- LinkedIn: [Arka Talukder](https://www.linkedin.com/in/arka-talukder/)
+- Email: arkatalukder99@gmail.com
+
 <div align="center"> 
   <a href="mailto:arkatalukder99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -55,6 +75,12 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 </div>
 
 ### Also You can visit my website : [BDLearner.Com](https://www.bdlearner.com/)
+
+
+
+
+
+
     
 <br>       
 
