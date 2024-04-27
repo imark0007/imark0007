@@ -37,7 +37,7 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 > ## Skills
 > 
 >
->     • Test Case and Report writing
+>     • Test Case and Report writing 
 >
 >     • Agile & Jira 
 >
@@ -50,6 +50,8 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 >     • Load Testing with JMeter 
 >
 >     • Java Basics
+> 
+>     • Web Automation with Selenium & other Frameworks.
 
 
 ### Projects
