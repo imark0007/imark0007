@@ -54,13 +54,16 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 
 ### Projects
 
+- [Web Automation Project](https://github.com/imark0007/WebAutomationProject):This project is a web automation framework built using Selenium WebDriver and Java. It provides a foundation for automating web applications, allowing for efficient and reliable testing of web functionalities.
+- [Automation Test Suite for WordPress](https://github.com/imark0007/AutomationTestSuite):This repository contains an automation test suite implemented in Java using Selenium WebDriver for testing various scenarios on a WordPress site.
 - [API Testing Using Postman](https://github.com/imark0007/ApiTestingUsingPostman): Examples and resources for API testing using Postman.
-- [BDLearner.com](https://github.com/imark0007/BDLearner): Learning blog site covering a wide range of topics.
+- [Performance Testing Project](https://github.com/imark0007/performanceTesting):This project is aimed at conducting performance testing of web applications using industry-standard tools and methodologies. It helps in identifying performance bottlenecks, analyzing system behavior under various load conditions, and ensuring that the application meets performance requirements.
 
 ### Get In Touch
 
 - LinkedIn: [Arka Talukder](https://www.linkedin.com/in/arka-talukder/)
 - Email: arkatalukder99@gmail.com
+- [BDLearner.com](https://github.com/imark0007/BDLearner): Learning blog site covering a wide range of topics.
 
 <div align="center"> 
   <a href="mailto:arkatalukder99@gmail.com">
