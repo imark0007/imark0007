@@ -56,8 +56,9 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 
 ### Projects
 
-- [Web Automation Project](https://github.com/imark0007/WebAutomationProject):This project is a web automation framework built using Selenium WebDriver and Java. It provides a foundation for automating web applications, allowing for efficient and reliable testing of web functionalities.
+- [Web Automation Tutorial](https://github.com/imark0007/WebAutomationTutorial):This tutorial is a web automation framework built using Selenium WebDriver and Java. It provides a foundation for automating web applications, allowing for efficient and reliable testing of web functionalities.
 - [Automation Test Suite for WordPress](https://github.com/imark0007/AutomationTestSuite):This repository contains an automation test suite implemented in Java using Selenium WebDriver for testing various scenarios on a WordPress site.
+- [Web Automation Testing Framework](https://github.com/imark0007/WebAutomationB_23):This repository contains a lightweight automation testing framework for web applications using Selenium WebDriver and TestNG.
 - [API Testing Using Postman](https://github.com/imark0007/ApiTestingUsingPostman): Examples and resources for API testing using Postman.
 - [Performance Testing Project](https://github.com/imark0007/performanceTesting):This project is aimed at conducting performance testing of web applications using industry-standard tools and methodologies. It helps in identifying performance bottlenecks, analyzing system behavior under various load conditions, and ensuring that the application meets performance requirements.
 
