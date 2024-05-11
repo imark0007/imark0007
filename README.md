@@ -25,13 +25,8 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 
 ### Here's to the exciting journey ahead!
 
-### About Me
-
-- 🔭 I’m currently working on API testing using Postman.
-- 🌱 I’m currently learning automation testing frameworks.
-- 💬 Ask me about software testing, Postman, and API testing.
-- 📫 How to reach me: arkatalukder99@gmail.com
-- ⚡ Fun fact: I love photography 📸 and exploring new technologies.
+# 💫 About Me:
+🔭 I’m currently working on API testing using Postman.<br>🌱 I’m currently learning automation testing frameworks.<br>💬 Ask me about software testing, Postman, and API testing.<br>📫 How to reach me: arkatalukder99@gmail.com<br>⚡ Fun fact: I love photography 📸 and exploring new technologies.
 
 > [!IMPORTANT]
 > ## Skills
@@ -67,9 +62,6 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 - LinkedIn: [Arka Talukder](https://www.linkedin.com/in/arka-talukder/)
 - Email: arkatalukder99@gmail.com
 - [BDLearner.com](https://github.com/imark0007/BDLearner): Learning blog site covering a wide range of topics.
-
-# 💫 About Me:
-🔭 I’m currently working on API testing using Postman.<br>🌱 I’m currently learning automation testing frameworks.<br>💬 Ask me about software testing, Postman, and API testing.<br>📫 How to reach me: arkatalukder99@gmail.com<br>⚡ Fun fact: I love photography 📸 and exploring new technologies.
 
 
 ## 🌐 Socials:
