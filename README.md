@@ -26,7 +26,7 @@ Join me as I embark on this exhilarating adventure into the realm of Software Qu
 ### Here's to the exciting journey ahead!
 
 # 💫 About Me:
-🔭 I’m currently working on API testing using Postman.<br>🌱 I’m currently learning automation testing frameworks.<br>💬 Ask me about software testing, Postman, and API testing.<br>📫 How to reach me: arkatalukder99@gmail.com<br>⚡ Fun fact: I love photography 📸 and exploring new technologies.
+🔭 I’m currently working on automation testing frameworks.<br>🌱 I’m currently learning automation testing frameworks.<br>💬 Ask me about manual testing, software testing, Postman, API testing and web automation testing.<br>📫 How to reach me: arkatalukder99@gmail.com<br>⚡ Fun fact: I love photography 📸 and exploring new technologies.
 
 > [!IMPORTANT]
 > ## Skills
