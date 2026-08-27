@@ -290,11 +290,11 @@ Photography enthusiast
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imark0007&show_icons=true&theme=dark&hide_border=true" alt="Arka's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=imark0007&theme=default&hide_border=true" alt="imark0007's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imark0007&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=imark0007&theme=default&hide_border=true" alt="imark0007's GitHub Stats" />
 </p>
 
 <p align="center">
