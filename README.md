@@ -301,6 +301,14 @@ Photography enthusiast
 
 ---
 
+
+## 😂 Cybersecurity Mood
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Developer Meme" />
+</p>
+
+
 ## 🤝 Let's Connect
 
 <p align="center">
