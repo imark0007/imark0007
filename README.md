@@ -289,17 +289,14 @@ Photography enthusiast
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imark0007&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Arka Talukder's GitHub Stats" />
+
+![imark0007's GitHub Stats](https://readme-stats-github.pages.dev/api?username=imark0007&theme=dark)
+
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=imark0007&theme=vue-dark&hide_border=true" alt="imark0007's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=imark0007&theme=dark&hide_border=true" alt="Arka Talukder's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imark0007&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Arka Talukder's Top Languages" />
-</p>
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=imark0007&theme=dark)
 
 
 ---
