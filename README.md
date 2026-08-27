@@ -294,7 +294,7 @@ Photography enthusiast
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imark0007&theme=default&hide_border=true" alt="imark0007's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=imark0007&theme=vue-dark&hide_border=true" alt="imark0007's GitHub Stats" />
 </p>
 
 <p align="center">
