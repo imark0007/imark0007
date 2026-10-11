@@ -21,7 +21,7 @@
 
 I'm **Arka Talukder**, a cybersecurity researcher and practitioner with a background in **Physics, Cybersecurity, Security Operations, and AI/ML**.
 
-I'm currently completing my **MSc in Cyber Security at the University of the West of Scotland (UWS), London Campus** (2025–2026), where my research focuses on the application of **Graph Neural Networks, Federated Learning, Explainable AI, and Edge AI to cybersecurity**.
+I recently completed my **MSc in Cyber Security with Distinction at the University of the West of Scotland (UWS), London Campus** (2025–2026), where my research focused on the application of **Graph Neural Networks, Federated Learning, Explainable AI, and Edge AI to cybersecurity**.
 
 My MSc dissertation:
 
@@ -29,7 +29,7 @@ My MSc dissertation:
 
 The project combines a **Dynamic GNN architecture using GATConv + GRU**, **Federated Learning with Flower/FedAvg**, **Explainable AI using Captum Integrated Gradients**, and **FastAPI-based SOC alert serving** to create a CPU-oriented prototype SIEM for Software-Defined IoT environments.
 
-Before starting my MSc, I worked as a **Cyber Security Engineer at StepUp Technology Ltd.**, helping secure a production environment serving **2,000+ users**. My experience includes network monitoring, endpoint security, IAM, vulnerability remediation, incident triage, and security automation.
+Before starting my MSc, I worked as a **Cloud Security Engineer at TACTSOFT Limited** and a **Cyber Security Engineer at StepUp Technology Ltd.**, where I led malware removal across **2,000+ client WordPress websites**. My experience includes network monitoring, endpoint security, IAM, vulnerability remediation, incident triage, and security automation.
 
 I am also the founder of **BDLearner.com**, where I have worked on web infrastructure, security, automation, and online platform management.
 
@@ -46,7 +46,7 @@ Open to **on-site, hybrid, and remote opportunities** in the **UK, Bangladesh, a
 ### MSc Cyber Security
 
 **University of the West of Scotland (UWS), London Campus**
-📅 2025 – 2026
+📅 2025 – 2026 · 🏅 Distinction
 
 Focus areas include:
 
@@ -56,7 +56,7 @@ Focus areas include:
 
 **Shahjalal University of Science and Technology (SUST)**
 **Condensed Matter & Materials Physics**
-📅 2018 – 2023
+📅 2017 – 2021
 
 ---
 
@@ -67,13 +67,24 @@ Focus areas include:
 **StepUp Technology Ltd., Dhaka**
 📅 Jul 2024 – May 2025
 
-* Monitored network and security events across a production environment supporting **2,000+ users**
+* Monitored network and security events and led malware removal across **2,000+ client WordPress websites**
 * Worked on endpoint protection and security hardening
 * Supported **Identity and Access Management (IAM)**
 * Performed vulnerability assessment and remediation
 * Assisted with security incident triage and investigation
 * Developed security-related scripts and automation using Python
 * Worked with technologies including **Wazuh, Wireshark, Nmap, Active Directory, Burp Suite, and Python**
+
+### ☁️ Cloud Security Engineer
+
+**TACTSOFT Limited, Dhaka**
+📅 Jul 2022 – Jun 2024
+
+* Designed and implemented cloud security measures
+* Monitored and responded to security threats
+* Managed identity and access controls
+* Conducted vulnerability assessments and risk mitigation
+* Worked with development teams to integrate security best practices
 
 ### 🌐 Founder & CEO
 
@@ -85,15 +96,6 @@ Focus areas include:
 * Worked on website security, maintenance, and automation
 * Managed remote editorial and technical workflows
 * Developed practical experience across web technologies and platform operations
-
-### 🏦 Banking Intern
-
-**Dhaka Bank Limited**
-📅 Apr 2023 – Jul 2023
-
-* Supported day-to-day banking operations
-* Assisted with documentation and customer-facing processes
-* Gained practical exposure to financial and organizational workflows
 
 ---
 
